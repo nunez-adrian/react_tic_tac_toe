@@ -1,12 +1,11 @@
 import { Board } from './Board.jsx'
 import './App.css'
 
-function App() {
-
+function App () {
   return (
     <>
       <h1>Tres en raya</h1>
-      <div className="card">
+      <div className='card'>
         <Board />
       </div>
     </>
